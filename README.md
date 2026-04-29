@@ -1,4 +1,8 @@
-🧠Fake News & Deepfake Detector
+🧠Fake News & Deepfake Detection System
+
+🔗 Live Demo
+
+[Try the app](https://fake-news-deepfake-detector-gs2562qvxhyktafxwpbyrq.streamlit.app/)
 
 ➡️ Overview
 
@@ -21,8 +25,7 @@ This project is a multimodal AI system that detects fake news using Natural Lang
 ▶️ How to Run
 
 1. Clone the repository
-    -> git clone https://fake-news-deepfake-detector-gs2562qvxhyktafxwpbyrq.streamlit.app/
-
+    -> git clone https://github.com/syedirfan11/fake-news-deepfake-detector.git
 2. Install dependencies
    -> pip install -r requirements.txt
 
