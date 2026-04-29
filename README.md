@@ -20,5 +20,11 @@ This project is a multimodal AI system that detects fake news using Natural Lang
 
 ▶️ How to Run
 
-pip install -r requirements.txt
-streamlit run app.py
+1. Clone the repository
+    -> git clone https://fake-news-deepfake-detector-gs2562qvxhyktafxwpbyrq.streamlit.app/
+
+2. Install dependencies
+   -> pip install -r requirements.txt
+
+3. Run the app
+   -> streamlit run app.py
